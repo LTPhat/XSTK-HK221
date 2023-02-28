@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1DI4ex3xhvH3Kr0_yDMl85rt2bdbTzBX2?usp=sharing
+
+(Sử dụng khi không mở được file BTL_XSTK_N13.ipynb)
